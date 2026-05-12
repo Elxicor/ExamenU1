@@ -17,8 +17,8 @@ class BoletoModelo {
     required this.tipoPasajero,
     required this.numeroBoletos,
     required this.tarifaBase,
-    required this.porcentajeDescuento,   // ← nuevo
-    required this.subtotalSinDescuento,  // ← nuevo
+    required this.porcentajeDescuento,
+    required this.subtotalSinDescuento,
     required this.subtotal,
     required this.descuento,
     required this.iva,

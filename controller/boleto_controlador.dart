@@ -46,8 +46,8 @@ class BoletoControlador {
       tipoPasajero: tipoPasajero,
       numeroBoletos: numeroBoletos,
       tarifaBase: tarifaBase,
-      porcentajeDescuento: porcentajeDescuento,   // ← nuevo
-      subtotalSinDescuento: subtotalSinDescuento, // ← nuevo
+      porcentajeDescuento: porcentajeDescuento,
+      subtotalSinDescuento: subtotalSinDescuento,
       subtotal: subtotal,
       descuento: descuento,
       iva: iva,
