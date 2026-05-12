@@ -4,8 +4,8 @@ class BoletoModelo {
   final String tipoPasajero;
   final int numeroBoletos;
   final double tarifaBase;
-  final double porcentajeDescuento;   // ← nuevo
-  final double subtotalSinDescuento;  // ← nuevo
+  final double porcentajeDescuento;
+  final double subtotalSinDescuento;
   final double subtotal;
   final double descuento;
   final double iva;
